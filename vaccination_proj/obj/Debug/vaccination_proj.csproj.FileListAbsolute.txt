@@ -1,0 +1,12 @@
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\bin\Debug\vaccination_proj.exe.config
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\bin\Debug\vaccination_proj.exe
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\bin\Debug\vaccination_proj.pdb
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.csproj.AssemblyReference.cache
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.csproj.SuggestedBindingRedirects.cache
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.Form1.resources
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.Properties.Resources.resources
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.signin_form.resources
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.csproj.GenerateResource.cache
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.csproj.CoreCompileInputs.cache
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.exe
+C:\Users\kresm\Documents\uni\usp\usp_proekt\vaccination_proj\obj\Debug\vaccination_proj.pdb
